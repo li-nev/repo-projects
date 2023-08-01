@@ -1,0 +1,89 @@
+body {
+    background-color: #7392B7;
+}
+
+#cover {
+    margin: 0px;
+}
+/* Holds all of the information*/
+#wrapper {
+    background-color: #C5D5EA;
+    margin:auto;
+    max-width: 1000px;
+    padding: 50;
+    text-align: center;
+}
+
+h1 {
+    background-color: #D8E1E9;
+    margin: auto;
+    padding-top: 0px;
+    height: 70px;
+    border-bottom: solid #759EB8 2px;
+    font-family: "Copperplate", fantasy;
+    font-size: 45px;
+    color: black;
+}
+
+p {
+    color: black;
+}
+nav {
+    background-color: #D8E1E9;
+    margin: auto;
+    width: 600px;
+    height: 15px;
+    padding: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+nav ul {
+    padding-top: 0px;
+    margin: 0px;
+    
+}
+
+nav li {
+    display: inline-block;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+}
+/* Navigation colors change when visited or hover*/
+nav a:link {
+    display: inline-block;
+}
+
+nav a:visited {
+    color: #5C7492;
+}
+
+nav a:hover {
+    color:#7392B7;
+}
+/* Helps organize columns*/
+.column {
+    float: left;
+    width:45%;
+    padding: 5px;
+}
+
+.row {
+    padding: 20px;
+}
+/* Clear floats after the columns */
+.row::after {
+    content: "";
+    display:table;
+    clear:both;
+}
+
+footer {
+    border-top: solid #759EB8 2px;
+    background-color: #C5D5EA;
+    margin: auto;
+    width:auto;
+    text-align: center;
+}
