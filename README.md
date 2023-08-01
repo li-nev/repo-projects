@@ -18,7 +18,8 @@ I have a few projects added into this repository. <br>
 <p>This project was something I worked on for a class to learn about accessibility reports. What the standard practices and requirements needed to be WCAG2.1 AA Compliant. </p>
 <h2>Travel Project</h2>
 <p>This project was to showcase the different things I've learned so far in HTML and CSS. This page I'm incredibly excited to add what I've learned in JavaScript to see how I can improve the way this page works.</p>
-
+<br>
+<h3>Thanks for reading!</h3>
 <p>My goal is to continue to work on these projects as well as work on the other class assignments to better showcase my progress and skill as a programmer.</p>
 </body>
 </html>
