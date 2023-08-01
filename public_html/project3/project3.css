@@ -1,0 +1,149 @@
+body {
+    color: black;
+    background-color: #334019;
+    display: block;
+}
+
+h1 {
+    color: #608d67;
+    text-align: center;
+}
+
+h3 {
+    color: #608d67;
+    text-align: center;
+    border-bottom: 2px solid #6F4E37;
+    margin: 5px;
+}
+
+h4 {
+    color: #608d67;
+    text-align: center;
+    border-bottom: #6F4E37;
+}
+
+h5 {
+    color: #608d67;
+    text-align: center;
+}
+
+p {
+    color: #608d67;
+    text-align: center;
+}
+
+#wrapper {
+    background-color: #FFFFF0;
+    min-width: 1000px;
+    margin: 50px 175px;
+    margin: 75px;
+    margin-top: 5px;
+    padding: 25px;
+    padding-top: 15px;
+    box-shadow: 2px 2px;
+    border: #000000;
+    border-style: solid;
+}
+
+#summarize {
+    background-color: #FFFFF0;
+    min-width: 1000px;
+    margin: 50px 175px;
+    margin: 75px;
+    margin-bottom: 15px;
+    padding: 25px;
+    padding-top: 15px;
+    box-shadow: 2px 2px;
+    border: #000000;
+    border-style: double;
+    text-align: center;
+    
+}
+
+#results {
+    background-color: #FFFFF0;
+    min-width: 1000px;
+    margin: 50px 175px;
+    margin: 75px;
+    padding: 25px;
+    padding-top: 15px;
+    box-shadow: 5px 5px;
+    border: #000000;
+    border-style: solid;
+    text-align: center;
+}
+
+#endof {
+    background-color: #FFFFF0;
+    min-width: 1000px;
+    margin: 50px 175px;
+    padding: 10px;
+    padding-top: 5px;
+    box-shadow: 5px 5px;
+    border: #000000;
+    border-style: double;
+    text-align: center;
+}
+
+#footers {
+    background-color: #FFFFF0;
+    min-width: 1000px;
+    margin: 50px 175px;
+    margin: 75px;
+    padding: 5px;
+    padding-top: 5px;
+    box-shadow: 5px 5px;
+    border: #000000;
+    border-style: double;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+}
+
+#ulcenter {
+    text-align: center;
+}
+
+li {
+
+}
+
+dl {
+
+}
+
+dt {
+    border-bottom: #6F4E37;
+    
+}
+
+dd {
+
+}
+
+td {
+    text-align: left;
+}
+
+.row {
+    border: 2px double;
+    display: block;
+}
+
+#guideline-25 {
+    border: 2px solid;
+}
+
+.col {
+    border: 2px solid;
+    
+    
+    display: block;
+}
+
+.resulta {
+    border: 2px solid;
+    display: block;
+}
